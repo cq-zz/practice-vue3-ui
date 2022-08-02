@@ -1,0 +1,20 @@
+[
+  {
+    "componentName": "Button",
+    "componentZhName": "按钮",
+    "componentDesc": "按钮",
+    "componentClassName": "button"
+  },
+  {
+    "componentName": "Switch",
+    "componentZhName": "开关",
+    "componentDesc": "开关",
+    "componentClassName": "switch"
+  },
+  {
+    "componentName": "Radio",
+    "componentZhName": "单选",
+    "componentDesc": "单选按钮",
+    "componentClassName": "radio"
+  }
+]
